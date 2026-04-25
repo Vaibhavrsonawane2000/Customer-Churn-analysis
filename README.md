@@ -12,7 +12,8 @@
 - Electronic check users churn more
 
 ## Dashboard
-<img width="1468" height="832" alt="Screenshot 2026-04-11 112105" src="https://github.com/user-attachments/assets/328bbc5d-b334-4d90-8cad-4cd86707c021" />
+<img width="1479" height="818" alt="Screenshot 2026-04-25 143917" src="https://github.com/user-attachments/assets/397eac12-29db-470d-9d51-c2e7a919d695" />
+
 
 
 ## Conclusion
